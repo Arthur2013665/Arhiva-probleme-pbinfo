@@ -1,4 +1,4 @@
-# Arhiva-probleme-pbinfo
+# Arhiva-problemelor-pbinfo
 Aceasta este officiala arhiva de solutii pt probleme de pe pbinfo
 
 Toate filele incluzand CmakeLists.txt sunt prezente aici ca sa puteti folosi proiecul usor fara alte complicatii!
